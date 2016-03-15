@@ -1,0 +1,98 @@
+header h1 {
+	font-family: Avant Garde;
+	font-size: 35px;
+	color: white;
+	background-color: #1d2f36;
+	padding: 8px;
+	margin:0px;
+}
+
+header h1:hover {
+    background-color: white;
+    color: #1d2f36;
+}
+
+
+
+nav a:link, a:visited {
+    background-color: #1d80c2;
+    color: white;
+    padding: 10px 34.5px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -4;
+    font-family: Consolas;
+    font-size: 16px;
+}
+
+article h1 {
+	font-family: Rockwell;
+	font-size: 30px;
+}
+
+article h2 {
+	font-family: Rockwell;
+	font-size: 25px;
+}
+
+article p, table, li {
+	font-family: Candara;
+}
+
+footer {
+	font-family: Avant Garde;
+	background-color: #1d2f36;
+  	padding: 30px 10px;
+  	border-top: 5px solid white;
+  	color: white;
+  	font-size: 15px;
+  	font-style: italic;
+  	width: 100%; 
+}
+
+footer a, footer ul {
+	text-decoration: none;
+	color: white;
+	text-align: left;
+}
+
+.article_container {
+  background-color: #FFFFFF;
+}
+
+.post_author {
+  font-size: 15px;
+}
+
+.centeredElement {
+  width: 50%;
+  margin: auto;
+}
+
+footer a:link {
+  color: #FFFFFF;
+}
+
+footer a:visited {
+` color: #CCCCCC;
+}
+
+footer a:hover {
+  color: #999999;
+}
+
+nav a:hover {
+  color: #999999;
+}
+
+.floatedBox {
+    float: right;
+    margin: 10px;
+}
+
+.shadowedBox {
+  box-shadow: 10px 5px 5px #888888;
+}
+
+
